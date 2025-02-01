@@ -1,4 +1,4 @@
-# Power BI Sales Dashboard Project
+# Plant Sales Dashboard - PowerBI
 
 ## Overview
 This project showcases an interactive Power BI dashboard created for **Plants Co.** to analyze key sales parameters, such as quantity sold, gross profit, and sales over two years. The dashboard includes a **waterfall chart with drill-down functionality**, allowing users to explore data from a high-level overview to granular details, starting at products and drilling down to specific countries. It highlights the power of data visualization and actionable insights for business decision-making.
